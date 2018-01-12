@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Palette.qml</file>
+        <file>HButton.qml</file>
+    </qresource>
+</RCC>
